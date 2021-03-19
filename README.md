@@ -4,7 +4,7 @@ A go SDK for Vector! This is an ***early alpha*** and not all features are prese
 
 ## Examples
 
-Pleas see the cmd/examples directory for usage examples.
+Please see the cmd/examples directory for usage examples.
 
 ## Escape pod specific information
 
